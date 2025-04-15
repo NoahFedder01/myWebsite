@@ -1,2 +1,2 @@
 # myWebsite
-Website in case I bomb an interview
+Work in progress, intent is to show that I have some ability in web dev
